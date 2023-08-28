@@ -35,11 +35,11 @@ Widen and swift thinking; strong flexibility; holding capacity to pressure and p
 [PDF](https://drive.google.com/file/d/1M7ksvfJ7fnPhcXpsgFnhORCj5qzy7OOp/view?usp=sharing)
 
 ### Famitsu Report. 
-[Link](https://www.famitsu.com/news/202108/06228484.html)
+[LINK](https://www.famitsu.com/news/202108/06228484.html)
 
 ### The game design, art direction, and graphics of Resident Evil Village. (GDC 2021)
 [PPT](https://docs.google.com/presentation/d/1pOkxDIdji9tmIw08zZgv_wh6D7_mzwlY/edit?usp=sharing&ouid=104164761622210374759&rtpof=true&sd=true)
 [PDF](https://drive.google.com/file/d/1Yzt-yi2SKq7sNuM6lrNKAR9iyr3lBk_v/view?usp=sharing)
 
 ### A kind of method and system of display object adaptive resolution display.
-[Link](https://patents.google.com/patent/CN105225201A/ar)
+[LINK](https://patents.google.com/patent/CN105225201A/ar)
