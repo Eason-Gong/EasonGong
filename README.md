@@ -26,11 +26,11 @@ Widen and swift thinking; strong flexibility; holding capacity to pressure and p
 
 ## Publications
 
-### Advances in Ray Tracing
+### Advances in Ray Tracing (Capcom Conference)
 [PPT](https://docs.google.com/presentation/d/15vVO_L7BPAHslzRAcZjLxA903gR0lOLi/edit?usp=sharing&ouid=104164761622210374759&rtpof=true&sd=true)
 [PDF](https://drive.google.com/file/d/1MwpeBnWJQHXiAo4GBf-Fqbtg2tVQUfOa/view?usp=sharing)
 
-### Strand physics and tools
+### Strand physics and tools (Capcom Conference)
 [PPT](https://docs.google.com/presentation/d/1V-SIkmCO_--ZZc323DbMI54iaz1MJKTP/edit?usp=sharing&ouid=104164761622210374759&rtpof=true&sd=true)
 [PDF](https://drive.google.com/file/d/1M7ksvfJ7fnPhcXpsgFnhORCj5qzy7OOp/view?usp=sharing)
 
